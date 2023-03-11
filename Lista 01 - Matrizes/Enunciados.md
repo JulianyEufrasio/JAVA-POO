@@ -17,3 +17,6 @@ onde N e M não poderem ser menores que um. Gerar os elementos
 aleatoriamente. O usuário deve informar a dimensão (linha e coluna) e um
 valor máximo para elementos aleatórios. O programa efetuar todas as
 validações.</li>
+<br>
+<li>Exercicio 05: Escreva um programa em Java para ler 2 matrizes N x M (definido pelo usuário) e
+calcular a soma entre elas gerando uma terceira matriz.</li>
