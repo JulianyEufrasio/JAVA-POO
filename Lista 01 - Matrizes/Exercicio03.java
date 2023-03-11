@@ -42,7 +42,7 @@ public class Exercicio03 {
 		}
 		
 		//exibe a matriz c gerada
-		System.out.println("Matriz C gerada aleatoriamente na dimenção " + n + "x" + n + ":");
+		System.out.println("Matriz C gerada aleatoriamente na dimensão " + n + "x" + n + ":");
 		for(int i = 0; i < n; i++){
 			for(int j = 0; j < n; j++){
 			System.out.print(matrizC[i][j] + " ");
