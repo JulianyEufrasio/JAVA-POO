@@ -11,3 +11,9 @@ gerada e imprimir a matriz em ordem invertida...</li>
 onde N é menor ou igual a 20 e imprimir seus elementos. O usuário deve informar o
 número o tamanho da matriz quadrada (dimensão) e os elementos podem ser gerados
 aleatoriamente (menor que 100).</li>
+<br>
+<li>Exercicio 04: Escreva um programa em Java para ler uma matriz D de dimensão N x M,
+onde N e M não poderem ser menores que um. Gerar os elementos
+aleatoriamente. O usuário deve informar a dimensão (linha e coluna) e um
+valor máximo para elementos aleatórios. O programa efetuar todas as
+validações.</li>
