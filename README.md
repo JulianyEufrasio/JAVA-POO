@@ -1,4 +1,4 @@
-# JAVA-POO# theme-color-switcher
+# JAVA-POO
 Olá! :wave: como vai?
 <br>
 <li>Aqui se encontram listas de exercicios que foram desenvolvidos na linguagem java para a materia de POO.</li>
