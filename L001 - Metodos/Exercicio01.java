@@ -4,7 +4,7 @@ Lista 001 - Metodos pt. 01 - Exercicio 01*/
 import java.util.Scanner;
 public class Exercicio01 {
 	
-	//erifica se o numero é positivo
+	//verifica se o numero é positivo
 	public static boolean ePositivo(double num){
 		return num >= 0;
 	}
